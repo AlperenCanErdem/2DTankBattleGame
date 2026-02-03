@@ -7,10 +7,10 @@ A 2D retro-style tank battle game developed using **Java** and **JavaFX**. The g
 
 ## 📸 Screenshots
 
-| Gameplay Action | Pause Menu | Game Over Screen |
-| :----------------------------: | :--------------------------: | :----------------------------: |
-| ![Gameplay](gameplay.png)      | ![Pause Menu](gamepause.png) | ![Game Over](gameover.png)     |
-| *Tactical combat and enemy AI* | *In-game menu options*       | *Scoreboard and restart logic* |
+| Gameplay Action                        | Pause Menu                                | Game Over Screen                        |
+| :------------------------------------: | :---------------------------------------: | :-------------------------------------: |
+| ![Gameplay](ScreenShoots/gameplay.png) | ![Pause Menu](ScreenShoots/gamepause.png) | ![Game Over](ScreenShoots/gameover.png) |
+| *Tactical combat and enemy AI*         | *In-game menu options*                    |          *Scoreboard and restart logic* |
 
 | Key | Action |
 | :--- | :--- |
